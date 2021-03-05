@@ -1,0 +1,17 @@
+#navbar {
+  width: 100%;
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+
+}
+
+#navbar {
+  background-color: darkred;
+  color: white;
+}
+
+.navbar-spacer {
+  padding: 1rem;
+  width: 100%;
+}
